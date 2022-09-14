@@ -2,7 +2,7 @@
 widget: hero
 widget_id: "11"
 headless: true
-weight: 10
+weight: 12
 title: ATS-TC
 hero_media: welcome.jpg
 design:
